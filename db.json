@@ -89,6 +89,16 @@
       "city": "Talisay City",
       "country": "India",
       "id": 6
+    },
+    {
+      "city": "Talisay City",
+      "country": "Philippines",
+      "id": 7
+    },
+    {
+      "city": "Talisay City",
+      "country": "India",
+      "id": 8
     }
   ]
 }
